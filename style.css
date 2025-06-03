@@ -16,7 +16,8 @@ h1 {
 
     color:#183B4E;
     font-size: 20px;
-    margin-left: 15px;
+    width: 300px;           
+    margin: 0 auto;  
 }
 
 h2{
@@ -60,8 +61,9 @@ button{
    font-family: 'Brush Script MT', cursive;
    cursor: pointer;
    margin-top: 20px;
-   margin-left: 400px;
-
+   width: 300px;           
+   margin: 0 auto;  
+ 
 }
 
 
