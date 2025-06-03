@@ -60,7 +60,7 @@ button{
    font-family: 'Brush Script MT', cursive;
    cursor: pointer;
    margin-top: 20px;
-   margin-left: 230px;
+   margin-left: 400px;
 
 }
 
@@ -149,7 +149,7 @@ button:hover {
 
 .firstinfo {
   background-color: #FFF5E1;   
-     
+  margin-left:15px;
   padding: 20px;               
   max-width: 700px;             
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
